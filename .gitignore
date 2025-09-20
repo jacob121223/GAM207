@@ -1,0 +1,32 @@
+# Unreal Engine generated files and folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+
+# Visual Studio files
+*.VC.db
+*.VC.opendb
+*.VC.suo
+*.VC.user
+*.VC.filters
+*.VC.vcxproj.user
+*.VC.vcxproj.filters
+
+# Mac OS X files
+.DS_Store
+
+# Windows files
+Thumbs.db
+
+# Project-specific files (add as needed)
+# For example, if you have specific editor settings or local configuration files
+# MyProject/Config/DefaultEditorUserSettings.ini
+# MyProject/Config/LocalSettings.ini
+
+# Source control specific files
+# If using Perforce, for example, you might ignore certain client-side files
+# .p4ignore
