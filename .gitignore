@@ -26,7 +26,3 @@ Thumbs.db
 # For example, if you have specific editor settings or local configuration files
 # MyProject/Config/DefaultEditorUserSettings.ini
 # MyProject/Config/LocalSettings.ini
-
-# Source control specific files
-# If using Perforce, for example, you might ignore certain client-side files
-# .p4ignore
